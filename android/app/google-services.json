@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131137805059",
+    "project_id": "dubai-6c85d",
+    "storage_bucket": "dubai-6c85d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131137805059:android:86e365a4493f70f2bd2736",
+        "android_client_info": {
+          "package_name": "com.dubai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBdmapZYkY9fwdhum9Alx0n_FXTOq4xUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
